@@ -5,7 +5,7 @@
 :wave: Hi, I am Sowjanya Sadashiva  
 :mortar_board: I am currently a Graduate student at University of Texas, Arlington.  
 :books: My majors are: Artificial Intelligence, Machine Learning and Neural Network  
-:books: Other courses: Design and Analysis of Algorithm, Data Analysis and modeling Techniques, Database system. 
+:books: Other courses: Design and Analysis of Algorithm, Data Analysis and modeling Techniques, Database system.   
 :computer: Languages: Python, R, C, C++  
 :computer: Framework: Tensorflow, scikit-learn, PyTorch  
 :computer: IDE: Jupyter notebook, pycharm, Visual Studio Code, Atom  
