@@ -1,6 +1,4 @@
-# SowjanyaSadashiva
-
-**Sowjanya Sadashiva**
+# Sowjanya Sadashiva
 
 :wave: Hi, I am Sowjanya Sadashiva  
 :mortar_board: I am currently a Graduate student at University of Texas, Arlington.  
