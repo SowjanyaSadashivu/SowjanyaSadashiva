@@ -8,7 +8,7 @@
 :computer: Languages: Python, SQL, R, C/C++ , Java, Spark, Scala.                                                                                          
 :computer: IDE: Jupyter notebook, pycharm, Visual Studio Code, Eclipse, IntelliJ Idea.         
 :computer: Framework: Tensorflow, Keras, PyTorch, Apache Hadoop.  <br>
-💻 : Libraries: Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, SciPy, XGBoost, NLTK. <br>
+💻 Libraries: Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, SciPy, XGBoost, NLTK. <br>
 :bar_chart: Learning more about Data Analytics, Machine Learning, Deep Learning.  <br>                                         
 :open_file_folder: Check out [my portfolio](https://sowjanyasadashiva.com/)   <br>                            
 :page_with_curl: Quick blogs can be found on [my medium here](https://sadashivusowjanya.medium.com/) <br>
