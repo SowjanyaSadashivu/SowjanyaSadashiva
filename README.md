@@ -1,7 +1,7 @@
 # Sowjanya Sadashiva
 
 :wave: Hi, I am Sowjanya Sadashiva  
-:mortar_board: I am currently a Graduate student at University of Texas, Arlington.  
+:mortar_board: I am a Graduate student from University of Texas, Arlington.  
 :books: My majors are: Artificial Intelligence, Cloud Computing and Big Data, Machine Learning and Neural Network.   
 :books: Other courses: Design and Analysis of Algorithm, Data Analysis and modeling Techniques, Database system, Software Design Patterns, Software Engineering, Information Security.       
 :computer: Operating Systems: MacOS, Windows, Linux.                 
