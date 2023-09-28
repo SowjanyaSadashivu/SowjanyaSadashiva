@@ -29,7 +29,7 @@
 
 ## Let's Connect
 
-- :email: **Contact**: You can reach out to me at [your.email@example.com](mailto:sadashivusowjanya@gmail.com).
+- :email: **Contact**: You can reach out to me at [sadashivusowjanya@gmail.com](mailto:sadashivusowjanya@gmail.com).
 - :link: **LinkedIn**: Connect with me on [LinkedIn](https://www.linkedin.com/in/sowjanyasadashiva/) for professional networking.
 
 Thank you for visiting my GitHub profile! Let's collaborate and learn together. :revolving_hearts:
