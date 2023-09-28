@@ -2,7 +2,7 @@
 
 ## About Me
 
-- :mortar_board: I am a passionate Graduate student pursuing a Master's degree in **Artificial Intelligence** at the prestigious **University of Texas, Arlington**.
+- :mortar_board: I am a passionate Graduate student pursuing a Master's degree in **Computer Science** at the prestigious **University of Texas, Arlington**.
 
 ## My Academic Journey
 
@@ -15,7 +15,7 @@
 - :computer: **Languages**: Skilled in Python, SQL, R, C/C++, Java, Spark, and Scala.
 - :computer: **IDE**: Comfortable with Jupyter Notebook, PyCharm, Visual Studio Code, Eclipse, and IntelliJ IDEA.
 - :computer: **Frameworks**: Experienced in TensorFlow, Keras, PyTorch, and Apache Hadoop.
-- :computer: **Visualization**: Adept at using Tableau, Matplotlib, and Seaborn.
+- :computer: **Visualization**: Adept at using Tableau, Power BI, Matplotlib, and Seaborn.
 
 ## Tools & Libraries
 
@@ -24,7 +24,7 @@
 
 ## Explore My Work
 
-- :open_file_folder: **Portfolio**: Be sure to check out [my portfolio](https://sowjanyasadashiva.com/) for a glimpse of my projects and achievements.
+- :open_file_folder: **Portfolio**: Be sure to check out [my portfolio](https://sowjanyasadashiva.com/) for a glimpse of my projects and achievements. (!up to date)
 - :page_with_curl: **Blogs**: I also share insights and knowledge on [my Medium blog](https://sadashivusowjanya.medium.com/). Feel free to explore!
 
 ## Let's Connect
