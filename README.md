@@ -2,11 +2,11 @@
 
 ## About Me
 
-- :mortar_board: I am a passionate Graduate student pursuing a Master's degree in **Computer Science** at the prestigious **University of Texas, Arlington**.
+- :mortar_board: I am a passionate recent graduate with a Master's degree in **Computer Science** from the prestigious **University of Texas, Arlington**.
 
 ## My Academic Journey
 
-- :books: **Majoring In**: Artificial Intelligence, Cloud Computing, Big Data, Machine Learning, and Neural Networks.
+- :books: **Majors**: Artificial Intelligence, Cloud Computing, Big Data, Machine Learning, and Neural Networks.
 - :books: **Additional Courses**: Design and Analysis of Algorithms, Data Analysis and Modeling Techniques, Database Systems, Software Design Patterns, Software Engineering, Information Security.
 
 ## Tech Stack
