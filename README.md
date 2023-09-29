@@ -2,7 +2,7 @@
 
 ## About Me
 
-- :mortar_board: I am a passionate recent graduate with a Master's degree in **Computer Science** from the prestigious **University of Texas, Arlington**.
+- :mortar_board: I am a recent graduate with a Master's degree in **Computer Science** from the prestigious **University of Texas, Arlington** with a passion for Data Science.
 
 ## My Academic Journey
 
